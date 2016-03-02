@@ -59,7 +59,7 @@ public class CircleDrawable extends Drawable {
         Bitmap bitmap = BitmapFactory.decodeResource(context.getResources(), R.mipmap.ic_liked);
         if (bitmap != null) {
             Matrix matrix = new Matrix();
-            matrix.postScale(0.6f, 0.6f);
+            matrix.postScale(0.8f, 0.8f);
             mBitmapHeart = Bitmap.createBitmap(bitmap, 0, 0, bitmap.getWidth(), bitmap.getHeight(), matrix, true);
         }
     }
