@@ -3,7 +3,7 @@
 
 ![DanmuDemoGif](/art/danmudemo.gif)
 
-![download demo apk](/app-debug.apk)
+[download demo apk](/app-debug.apk)
 
 使用弹幕库：[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
 
