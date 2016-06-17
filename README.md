@@ -1,5 +1,7 @@
 # DanmuDemo
-一个样式比较丰富的弹幕demo。
+一个样式比较丰富的弹幕demo,一个关于[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)很简单的使用。
+
+写了个简单的自定义的弹幕 view[CasualDanmu](https://github.com/cock-tail/CasualDanmu),功能上肯定是比不上DanmakuFlameMaster，可能还有 bug，有兴趣的可以看看
 
 ![DanmuDemoGif](/art/danmudemo.gif)
 
